@@ -7,7 +7,7 @@ Moded ElvUI from Sirus
 
 Что здесь сделано/есть:
 
-1. Переработан интерфейс в минимализм/информативность.
+1. Переработан интерфейс в минимализм/информативность под 1920х1080.
 2. Изменен шрифт.
 3. Оптимизирован под Танка/Хиллера/ДД.
 
@@ -29,6 +29,6 @@ Moded ElvUI from Sirus
 6. Проделываем с EKUI_Filter_Auras_Import_In_ElvUI.txt тоже самое.
 7. Заходим в настройки Details импортируем текст из файла Import_In_Details.txt
 ![image](https://user-images.githubusercontent.com/105996533/169673640-21827de0-5efd-44d8-bd9d-e718c01ce734.png)
-8. файл DBM-Core.lua кидаем в WTF\Account\*ИМЯАККАУНТА*\SavedVariables
+8. файл DBM-Core.lua кидаем в WTF\Account\ИМЯАККАУНТА\SavedVariables
 
 ### Хорошей игры
